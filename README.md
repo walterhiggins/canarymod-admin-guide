@@ -37,6 +37,12 @@ Need to know more about a command well here is your place to do that.
 
 So yea we have permissions, but now you say what are the permissions. Well here they are!
 
+[setup]: #setting-up-your-server
+[perms]: #permissions-and-groups
+[plugins]: #plugin-priorities-for-admins
+[commands]: #commands
+[permlist]: #list-of-permissions
+
 ## Setting up your Server
 So, what do you need for your server?
 
